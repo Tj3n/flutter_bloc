@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ui/movie_list.dart';
+import 'ui/movieList.dart';
 
 class App extends StatelessWidget {
   @override
